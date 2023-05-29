@@ -8,7 +8,7 @@
   * Checking for missing data.  
   * Checking for duplicacies.  
   * Dropping the columns that are not useful.  
-  * Visualising teh data. 
+  * Visualising the data. 
   
   
 
